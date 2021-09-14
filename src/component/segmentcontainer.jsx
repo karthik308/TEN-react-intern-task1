@@ -11,7 +11,7 @@ function Segmentcontainer() {
                     <p>Today</p>
                 </div>
                 <div>
-                    <img src="https://static.wixstatic.com/media/11062b_0f10d1a3bc8e4fb1ba089c42056efe9b~mv2.jpg/v1/fill/w_897,h_472,al_c,q_85,usm_0.66_1.00_0.01/11062b_0f10d1a3bc8e4fb1ba089c42056efe9b~mv2.webp" alt="" />
+                    <img src="https://static.wixstatic.com/media/11062b_0f10d1a3bc8e4fb1ba089c42056efe9b~mv2.jpg/v1/fill/w_897,h_472,al_c,q_85,usm_0.66_1.00_0.01/11062b_0f10d1a3bc8e4fb1ba089c42056efe9b~mv2.webp" alt="entrepreneurship" />
                 </div>
                 <Card content='Entrepreneurship
 made fun' btnLabel='Explore more' handleClick={() => {
@@ -19,9 +19,9 @@ made fun' btnLabel='Explore more' handleClick={() => {
                     }} />
             </div>
             <div className="segment-block1" >
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9MVqSDd0ihxVNQOJmpx1ubeLkYYc_T1q5PA&usqp=CAU" alt="" />
+                <img src="https://static.wixstatic.com/media/44a6c2_f9b99e49448943108aa1a3273b1c356b~mv2.jpg/v1/fill/w_603,h_405,al_c,q_80,usm_0.66_1.00_0.01/44a6c2_f9b99e49448943108aa1a3273b1c356b~mv2.webp" alt="directmarketing" />
                 <Card content='Digital Marketing' btnLabel='Explore more' />
-                <img src="https://static.wixstatic.com/media/11062b_557462ab123440368447ab18a66043e5~mv2.jpg/v1/fill/w_334,h_450,al_c,q_80,usm_0.66_1.00_0.01/11062b_557462ab123440368447ab18a66043e5~mv2.webp" alt="" />
+                <img src="https://static.wixstatic.com/media/11062b_557462ab123440368447ab18a66043e5~mv2.jpg/v1/fill/w_334,h_450,al_c,q_80,usm_0.66_1.00_0.01/11062b_557462ab123440368447ab18a66043e5~mv2.webp" alt="productmanagement" />
             </div >
             <div className="segment-block1">
                 <Card content='Product Management like a pro' btnLabel='Explore more' />

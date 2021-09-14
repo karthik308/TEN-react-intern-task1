@@ -1,6 +1,6 @@
+/* eslint-disable */
 import React, { useEffect, useState } from 'react';
 import TextField from '@material-ui/core/TextField';
-import Button from '../Button'
 import { Checkbox } from '@material-ui/core';
 import { Alert } from '@material-ui/lab';
 import './footer.css';
@@ -96,8 +96,7 @@ const Subscribe = () => {
                     <Checkbox onChange={CheckboxCallBack} name="Join TEN's Discord Community" checked={isChecked} />
                     <span onClick={() => { setIsChecked(!isChecked) }}>Join TEN's Discord Community</span>
                 </div>
-                {/* <Button className='submit-btn'
-                onClick={onButtonClick} variant="secondary" color='loud' size="default" label='submit' /> */}
+                
                 <center>  <button className='submit-btn' onClick={onButtonClick}>Submit</button> </center>
             </div>
         </div>

@@ -18,7 +18,7 @@ function Aboutus() {
       
 
                 </div>
-                <img className="aboutus-img" src="https://static.wixstatic.com/media/749045033f5b4f539376b91db3710416.jpg/v1/fill/w_441,h_296,al_c,q_80,usm_0.66_1.00_0.01/Teen%20study%20group.webp" alt="" />
+                <img className="aboutus-img" src="https://static.wixstatic.com/media/749045033f5b4f539376b91db3710416.jpg/v1/fill/w_441,h_296,al_c,q_80,usm_0.66_1.00_0.01/Teen%20study%20group.webp" alt="aboutus" />
             </div>
         </div>
     )

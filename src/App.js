@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './App.css';
 import Aboutus from './component/aboutus';
 import Carouselblock from './component/carouselblock';
@@ -15,10 +16,11 @@ function App() {
     <div id='start' >
       <Header />
       <Introimg />
-      <Discord />
+      <Aboutus />
+      
 
       <div className='bodyofpage'>
-      <Aboutus />
+      <Discord />
       <Segmentcontainer />
       <Data />
       <Carouselblock />

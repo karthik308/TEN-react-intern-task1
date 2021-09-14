@@ -1,4 +1,4 @@
-
+/* eslint-disable */
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
@@ -44,7 +44,7 @@ function Carouselblock() {
 
             className="carouselimg1"
             src="https://static.wixstatic.com/media/11062b_558f00357585424e894fb7c595fc38fd~mv2.jpg/v1/fill/w_1216,h_496,al_c,q_85,usm_0.66_1.00_0.01/11062b_558f00357585424e894fb7c595fc38fd~mv2.webp"
-            alt="Image Two"
+            alt="Image Three"
           />
           <Carousel.Caption>
             <div className="carousel-text3">

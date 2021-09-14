@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 import { Navbar } from "react-bootstrap";
 import { Button } from 'react-bootstrap';
@@ -59,7 +60,7 @@ function Header() {
                           <SearchBar/>
                         </div>
 
-                        <img className='logo-img' src="https://static.wixstatic.com/media/693073_ee31d3dcd4064037a097ec905d0c841b~mv2.jpg/v1/fill/w_90,h_72,al_c,q_80,usm_0.66_1.00_0.01/pp_edited.webp" alt="" />
+                        <img className='logo-img' src="https://static.wixstatic.com/media/693073_ee31d3dcd4064037a097ec905d0c841b~mv2.jpg/v1/fill/w_90,h_72,al_c,q_80,usm_0.66_1.00_0.01/pp_edited.webp" alt="ten-logo" />
                     </Container>
                 </Navbar>
             </div>
