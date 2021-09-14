@@ -1,0 +1,61 @@
+.subscribe-checkbox{
+    cursor: pointer;
+}
+.footer-container{
+
+   width:100%;
+   ;
+}
+.footer-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+}
+.social-container{
+    display: flex;
+   
+}
+.twitter{
+    margin-left: 15px;
+    margin-right: 15px
+}
+.copyright-content{
+    background-color:#FF5937;
+}
+.aboutdiv{
+    text-decoration: none;
+    color: black;
+    line-height: 8px;
+    letter-spacing: 0.05em;
+    font-family: cursive;
+    font-weight: 900;
+    
+}
+.aboutdiv:hover{
+    color: black;
+}
+.submit-btn{
+    
+    background-color: #E21C21;
+  margin-bottom: 10px;
+}
+.submit-btn:hover{
+    background-color: white;
+} 
+.subscribenow{
+    color:#E21C21 ;
+    line-height: 8px;
+    letter-spacing: 0.05em;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 30px;  
+    margin-bottom: 40px;
+}
+.MuiInputBase-root{
+    margin: 5px;
+}

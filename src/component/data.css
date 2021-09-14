@@ -1,0 +1,35 @@
+.data-container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #F7F7F7;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 10px;
+}
+.data-heading{
+    background-color: black;
+    margin-left: 35px;
+ margin-right: 35px;
+ margin-top: 10px;
+}
+
+.data-heading-text{
+    color: #F7F7F7;
+   
+    font-size: 40px;
+    font-family: cursive;
+}
+.data-img1{
+    width: 350px;
+    word-break: break-word;
+    padding-top: 45px;
+}
+
+.data-subheadings{
+    font-size: 2rem;
+    text-align: center;
+    font-family: cursive;
+}
+.data-para{
+    font-family: cursive;   
+}

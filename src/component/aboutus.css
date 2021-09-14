@@ -1,0 +1,49 @@
+.aboutus-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding: 35px;   
+     
+
+}
+.aboutus-text{
+    word-break: break-word;
+    width: 448px;
+    font-family: questrial,sans-serif;
+    font-size: 42px;
+}
+.aboutus-img{
+    border-radius: 1.5rem;
+    border-style: solid;
+}
+.aboutus-head{
+    background:#FF4040;
+    margin: 35px;
+    font-weight: bold;
+    font-size: 43px;
+}
+.btn-learnmore{
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    -webkit-box-shadow: 0px 2px 4px #000000;
+    -moz-box-shadow: 0px 2px 4px #000000;
+    box-shadow: 0px 2px 4px #000000;
+    font-family: Georgia;
+    color: #000000;
+    font-size: 20px;
+    background: #ffffff;
+    padding: 5px 13px 5px 13px;
+    border: solid #000000 4px;
+    text-decoration: none;
+  }
+  
+
+  .btn-learnmore:hover {
+    background: #000000;
+    color: #ffffff;
+    border: solid #ffffff 4px;
+   
+}
+  
+  

@@ -1,0 +1,38 @@
+.discord-container{
+    position: relative;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.discord-img{
+    width: 100%;
+    height: 502px;
+}
+.discord-content{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 52px;
+    position: absolute;
+    left: 5%;
+    top: 15%;
+}
+.discord-btn {
+    background: #b31cff;
+    background-image: -webkit-linear-gradient(top, #b31cff, #b823a7);
+    background-image: -moz-linear-gradient(top, #b31cff, #b823a7);
+    background-image: -ms-linear-gradient(top, #b31cff, #b823a7);
+    background-image: -o-linear-gradient(top, #b31cff, #b823a7);
+    background-image: linear-gradient(to bottom, #b31cff, #b823a7);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .discord-btn:hover:hover {
+    background: #FF4F4F;
+    text-decoration: none;
+  }

@@ -1,0 +1,29 @@
+ .search-input {
+   height: 100%;
+    width: 100%;
+    padding: 7px;
+    font-size: 16px;
+    border-width: 0px;
+    border-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    border-style: solid;
+    border-radius: 50px;
+    box-shadow: 0px 0px 0px rgba(66, 66, 66, 0);
+    text-shadow: 0px 0px 5px rgba(66, 66, 66, 0);
+  }
+  .search-input:focus {
+    outline: none;
+    background-color: pink;
+  }
+  .search-input::placeholder {
+    color: white;
+    opacity: 1;
+  }
+  
+  .fa-search {
+    position: absolute;
+    color: white;
+    margin-right: 1.8%;
+    margin-top: -4.6%;
+  }
